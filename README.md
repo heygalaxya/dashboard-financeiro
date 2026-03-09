@@ -1,13 +1,13 @@
 # Dashboard Financeiro
+🎯 Objetivo do Dashboard
+Responder à pergunta de negócio: 
+Como está o desempenho financeiro da empresa ao longo do último ano e quais fatores impactam a geração de lucro e o fluxo de caixa?
+
 Projeto de Análise e Apresentação de dashboard com evolução financeira de uma empresa nos últimos 12 meses, com foco na análise de recebimentos, custos, impostos e lucro.
 Além disso, o dashboard inclui:
 - volume de **transações recebidas via Pix por banco**
 - análise da **margem de lucro geral**
 - comparação da **margem de lucro por filial**
-
-🎯 Objetivo do Dashboard
-Responder à pergunta de negócio: 
-Como está o desempenho financeiro da empresa ao longo do último ano e quais fatores impactam a geração de lucro e o fluxo de caixa?
 
 No período analisado foram registrados os seguintes resultados consolidados:
 - **Receita total:** R$ 94,60 milhões
@@ -27,11 +27,10 @@ A análise do fluxo de caixa mostra que:
 
 ### Anomalias
 
-- Foram identificadas **quedas no fluxo de caixa nos meses de abril, junho e agosto**, o que pode indicar:
+Foram identificadas **quedas no fluxo de caixa nos meses de abril, junho e agosto**, o que pode indicar:
     - aumento pontual de custos
     - pagamento concentrado de impostos
     - sazonalidade nas receitas
-
 Esses períodos merecem análise mais detalhada para compreender os fatores específicos que impactaram o caixa.
 
 ### Oportunidades
