@@ -2,8 +2,7 @@
 🎯 Objetivo do Dashboard
 Responder à pergunta de negócio: 
 Como está o desempenho financeiro da empresa ao longo do último ano e quais fatores impactam a geração de lucro e o fluxo de caixa?
-
-  
+---
 Projeto de Análise e Apresentação de dashboard com evolução financeira de uma empresa nos últimos 12 meses, com foco na análise de recebimentos, custos, impostos e lucro.
 Além disso, o dashboard inclui:
 - volume de **transações recebidas via Pix por banco**
